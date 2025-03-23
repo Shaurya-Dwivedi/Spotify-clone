@@ -23,7 +23,7 @@ body{
     position:fixed;
     top:0;
     color:grey;
-    /* border:red solid 1px; */
+    border:red solid 1px;
     /* height: 75vh; */
     margin-top:60px;
     /* margin-bottom: 10px; */
@@ -32,7 +32,7 @@ body{
 }
 .library{
 
-    /* border:solid red 1px; */
+    border:solid red 1px;
     width:400px;
     height: 460px;
     margin-bottom: 8px;
